@@ -24,4 +24,4 @@ The QR-Code-Generator App is a web application that allows users to generate QR 
 
 1. **Clone the repository:**
    ```bash
-  
+   https://github.com/ashutosh-pandey29/QR-code--generator-app.git
